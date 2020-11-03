@@ -102,6 +102,8 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+
+
 -- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/t4EYKY
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
